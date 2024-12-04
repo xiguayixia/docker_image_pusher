@@ -1,2 +1,2 @@
 nginx
-jenkins
+jenkins/jenkins
