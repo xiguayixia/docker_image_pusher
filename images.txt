@@ -1,2 +1,3 @@
 nginx
 jenkins/jenkins
+justlikemaki/openclaw-docker-cn-im:latest
