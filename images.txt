@@ -1,3 +1,4 @@
 nginx
 jenkins/jenkins
 justlikemaki/openclaw-docker-cn-im:latest
+jc21/nginx-proxy-manager:latest
