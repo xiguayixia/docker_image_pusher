@@ -3,3 +3,4 @@ jenkins/jenkins
 justlikemaki/openclaw-docker-cn-im:latest
 jc21/nginx-proxy-manager:latest
 justlikemaki/aiclient-2-api
+1panel/openclaw
