@@ -1,2 +1,2 @@
-hermes-agent
+nousresearch/hermes-agent
 nikolaik/python-nodejs:python3.11-nodejs20
