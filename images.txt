@@ -1,7 +1,2 @@
-nginx
-jenkins/jenkins
-jc21/nginx-proxy-manager:latest
-justlikemaki/aiclient-2-api
-alpine/openclaw:main
 hermes-agent
 nikolaik/python-nodejs:python3.11-nodejs20
