@@ -1,3 +1,1 @@
-nousresearch/hermes-agent
-nikolaik/python-nodejs:python3.11-nodejs20
-ekkoye8888/hermes-web-ui
+alpine:latest
